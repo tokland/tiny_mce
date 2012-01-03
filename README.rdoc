@@ -14,7 +14,7 @@ This gem/plugin provides for the installation and utilization of TinyMCE in Ruby
 
 TinyMCE is a WYSIWYG HTML editing component released under the GNU Lesser General Public License 2.1 (LGPL 2.1) by Moxiecode Systems (http://tinymce.moxiecode.com/).
 
-== Denpendency
+== Dependency
 
 As of 0.1.7, this gem depends on jQuery being loaded before the TinyMCE init declaration. If you are like me and also load Prototype, consider adding something like this after your jQuery load:
 
@@ -237,4 +237,4 @@ This plugin was created by Blake Watters <blake@near-time.com>
 
 This plugin is currently maintained by Kieran Pilkington <kieran@katipo.co.nz>
 
-Bundled TinyMCE version: 3.4
+Bundled TinyMCE version: 3.4.7
